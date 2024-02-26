@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503201118621",
+    "project_id": "whatsapp-messanger-47253",
+    "storage_bucket": "whatsapp-messanger-47253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503201118621:android:7dc1e6c99bb562967d5774",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_clonee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk6wu322NX1FWLZdyhqBlk5zaiZo_CdkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
